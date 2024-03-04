@@ -1,4 +1,4 @@
 # Amazon Clone
 
-This is an Amazon clone.
+This is an Amazon clone created by Mridul giri.
 
